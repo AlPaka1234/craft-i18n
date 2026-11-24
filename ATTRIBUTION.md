@@ -391,5 +391,6 @@ The six new Adjust Layout rows across all 15 locales and the Spanish `Adjust Lay
 drafted by @AlPaka1234 with AI assistance from the plain meaning of the English (matching each
 locale's existing `Adjust Layout` and `Min:` conventions); no native-speaker review has been
 recorded. No other product's localisation was consulted. The existing `Adjust Layout` rows in the
-other 14 locales are carried over from DesignCraft's in-repo `crates/ui-egui/src/i18n` tables
-(MIT OR Apache-2.0).
+other 14 locales are carried over unchanged from [DesignCraft `39651f6603ee2aec709c676e4a7b76e350ea1dcc`](https://github.com/storytold/designcraft/tree/39651f6603ee2aec709c676e4a7b76e350ea1dcc/crates/ui-egui/src/i18n),
+MIT OR Apache-2.0; their AI-assistance and native-speaker review status is not recorded here, and
+original wording and contributor credits remain in the upstream DesignCraft history.
